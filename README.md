@@ -104,7 +104,7 @@ Proyecto_AVD_Equipo_N3/
 ## 📊 Dashboard interactivo
 
 🔗 Ver dashboard en Looker Studio:
-`[[Pegar enlace del dashboard aquí](https://datastudio.google.com/reporting/6f44f469-0172-436d-a6ec-471f5ea82539)]`
+`[(https://datastudio.google.com/reporting/6f44f469-0172-436d-a6ec-471f5ea82539)]`
 
 ---
 
