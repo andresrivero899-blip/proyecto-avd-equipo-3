@@ -1,4 +1,4 @@
-# proyecto-avd-equipo-3
+# Proyecto-AVD-Equipo-3
 # ⚽ Análisis de Rendimiento Liga BetPlay 2025
 ### Bootcamp Análisis y Visualización de Datos — Talento Tech Valle
 **Equipo 3** | Junio 2026
