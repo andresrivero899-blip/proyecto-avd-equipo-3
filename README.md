@@ -154,7 +154,7 @@ Recomendaciones accionables
 - [x] Dashboard público con enlace
 - [x] Capturas del dashboard en buena resolución
 - [x] Recomendaciones accionables
-- [ ] Video demo entre 3 y 5 minutos
+- [x] Video demo entre 3 y 5 minutos
 
 ---
 
